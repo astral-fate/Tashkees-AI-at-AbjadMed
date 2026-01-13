@@ -1,0 +1,16 @@
+transformers
+datasets
+accelerate
+scikit-learn
+pandas
+numpy
+torch
+optuna
+peft
+bitsandbytes
+matplotlib
+seaborn
+openai
+evaluate
+sentencepiece
+protobuf
