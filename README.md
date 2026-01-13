@@ -1,3 +1,6 @@
+
+<img width="2148" height="869" alt="diagram-export-1-13-2026-4_41_59-AM" src="https://github.com/user-attachments/assets/10d5072f-f5e3-491f-a20a-a80a82059a69" />
+
 # Tashkees-AI: Arabic Medical Question Classification
 
 This repository contains the codebase for **Tashkees-AI**, a system for fine-grained Arabic medical question classification (82 categories). This work corresponds to the Tashkees-AI paper.
@@ -69,3 +72,4 @@ The `src/preprocessing.py` module handles Arabic text cleaning, including:
 ## Citation
 
 Please refer to the `acl_latex.tex` file for citation details.
+
